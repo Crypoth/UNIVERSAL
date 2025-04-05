@@ -1,0 +1,17 @@
+local function LoadGame()
+    if game.PlaceId == 16732694052 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBBBB/refs/heads/main/FISCH" ))()
+        return true
+    end
+    if game.PlaceId == 286090429 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBARSENAL/refs/heads/main/Protected_2249278077059274.txt" ))()
+        return true
+    end
+    -- And so on
+    return false
+end
+
+local result = LoadGame()
+if not result then
+    game:GetService("Players").LocalPlayer:Kick("This game is not supported.")
+end
