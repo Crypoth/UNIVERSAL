@@ -7,6 +7,10 @@ local function LoadGame()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBARSENAL/refs/heads/main/Protected_2249278077059274.txt" ))()
         return true
     end
+    if game.PlaceId == 116495829188952 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/Deadrails/refs/heads/main/Deadrails" ))()
+        return true
+    end
     -- And so on
     return false
 end
