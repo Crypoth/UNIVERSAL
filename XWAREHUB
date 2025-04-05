@@ -4,7 +4,7 @@ local function LoadGame()
         return true
     end
     if game.PlaceId == 286090429 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBARSENAL/refs/heads/main/Protected_2249278077059274.txt" ))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBARSENAL/refs/heads/main/Arsenal" ))()
         return true
     end
     if game.PlaceId == 116495829188952 then
