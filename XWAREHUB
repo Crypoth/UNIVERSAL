@@ -11,6 +11,10 @@ local function LoadGame()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/Deadrails/refs/heads/main/Deadrails" ))()
         return true
     end
+    if game.PlaceId == 70876832253163 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/Deadrails/refs/heads/main/Deadrails" ))()
+        return true
+    end
     -- And so on
     return false
 end
