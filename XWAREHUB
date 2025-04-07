@@ -3,6 +3,10 @@ local function LoadGame()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBBBB/refs/heads/main/FISCH" ))()
         return true
     end
+    if game.PlaceId == 72907489978215 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBBBB/refs/heads/main/FISCH" ))()
+        return true
+    end
     if game.PlaceId == 286090429 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBARSENAL/refs/heads/main/Arsenal" ))()
         return true
