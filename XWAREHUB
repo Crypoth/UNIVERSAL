@@ -27,6 +27,10 @@ local function LoadGame()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XwareHUBScripttttttttt/refs/heads/main/Rivalsssssssss" ))()
         return true
     end
+    -- Anime CrossOver
+     if game.PlaceId == 87039211657390 or game.PlaceId == 128336380114944 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBBBBBB/refs/heads/main/ARISE%20CROSSOVER" ))()
+        return true
     -- And so on
     return false
 end
