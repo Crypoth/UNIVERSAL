@@ -28,7 +28,11 @@ local function LoadGame()
         return true
     end
     -- Anime CrossOver
-     if game.PlaceId == 87039211657390 or game.PlaceId == 128336380114944 then 
+     if game.PlaceId == 87039211657390 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBBBBBB/refs/heads/main/ARISE%20CROSSOVER" ))()
+        return true
+    end
+      if game.PlaceId ==  128336380114944 then 
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBBBBBB/refs/heads/main/ARISE%20CROSSOVER" ))()
         return true
     end
