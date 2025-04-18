@@ -36,7 +36,12 @@ local function LoadGame()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XWAREHUBBBBBB/refs/heads/main/ARISE%20CROSSOVER" ))()
         return true
     end
-    -- And so on
+-- blue lock
+     if game.PlaceId ==  18668065416 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XwareHUBScripttttt/refs/heads/main/bluelock" ))()
+        return true
+    end
+
     return false
 end
 
