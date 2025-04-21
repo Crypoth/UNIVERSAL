@@ -40,6 +40,10 @@ local function LoadGame()
      if game.PlaceId ==  18668065416 then 
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XwareHUBScripttttt/refs/heads/main/bluelock" ))()
         return true
+
+    if game.PlaceId ==  115110570222234 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/XwareHUBScripttttt/refs/heads/main/bluelock" ))()
+        return true
     end
 
     return false
